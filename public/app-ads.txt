@@ -1,0 +1,6 @@
+# Google AdMob / Play Store Authorized Digital Sellers (app-ads.txt)
+# Developer: Bitzer Solutions LLC
+# Domain: bitzers.top
+# Replace pub-0000000000000000 with your actual Google AdMob Publisher ID from your AdMob account settings
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
