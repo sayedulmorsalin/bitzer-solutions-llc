@@ -47,8 +47,8 @@ export const metadata: Metadata = {
     description: 'Verified mobile app developer on Google Play. Discover high-performance Android & iOS applications.',
     images: ['/images/hero-app.jpg'],
   },
-  other: {
-    'google-site-verification': 'GOOGLE_PLAY_VERIFICATION_TOKEN_PLACEHOLDER',
+  verification: {
+    google: 'google0d9b4eaf2d8b5797',
   },
 };
 
